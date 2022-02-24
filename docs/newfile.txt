@@ -1,0 +1,3 @@
+This is a new file in my docs directory
+Hope you like it.
+byeee
